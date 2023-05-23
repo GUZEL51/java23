@@ -1,4 +1,4 @@
-package polymorphism;
+Package polymorphism;
 
 public class ChaseBank extends CentralBank  {
 	
